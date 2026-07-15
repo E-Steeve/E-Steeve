@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at University of Sherbrooke. 
 
-- Interested in software development, electronics, AI development and cybersecurity.<br/>
+- I'm interested in software development, electronics, AI development and cybersecurity.<br/>
 - Here are some of my projects, feel free to test it and give me feedback!
 
 <h3 align="left">Connect with me:</h3>
